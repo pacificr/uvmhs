@@ -4,7 +4,7 @@ cabal-version: 2.2
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: ec8be822c65ac9f3d869c267faea5c9067bad02b28e2f66a29f0338f82f6d378
+-- hash: 9b30a3ba9582a0edd49e986903a6c464e393c4e0d6040833158b6631f9fae9c2
 
 name:           uvmhs
 version:        0.0.0.0
@@ -81,6 +81,7 @@ library
       UVMHS.Lib.Window
       UVMHS.Lib.ZerInf
       UVMHSContrib.Lang.Arith
+      UVMHSContrib.Lang.Fun
       UVMHSContrib.Lang.SExp
       UVMHSMain
   other-modules:

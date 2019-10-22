@@ -732,6 +732,7 @@ instance Data.Primitive.Types.Prim System.Posix.Types.CFsBlkCnt
 instance Data.Primitive.Types.Prim System.Posix.Types.CFsFilCnt
 instance Data.Primitive.Types.Prim System.Posix.Types.CId
 instance Data.Primitive.Types.Prim System.Posix.Types.CKey
+instance Data.Primitive.Types.Prim System.Posix.Types.CTimer
 instance Data.Primitive.Types.Prim System.Posix.Types.Fd
 instance Data.Primitive.Types.Prim a => Foreign.Storable.Storable (Data.Primitive.Types.PrimStorable a)
 instance Data.Primitive.Types.Prim GHC.Types.Word
